@@ -7,12 +7,12 @@
 | # | Feature | Audit | Fixes | Committed | Findings File |
 |---|---|---|---|---|---|
 | 1 | Post Ride | ✅ | ✅ | ✅ | `post-ride-findings.md` |
-| 2 | Search Rides | ⬜ | ⬜ | ⬜ | `search-rides-findings.md` |
-| 3 | Booked Rides | ⬜ | ⬜ | ⬜ | `booked-rides-findings.md` |
-| 4 | Posted Rides | ⬜ | ⬜ | ⬜ | `posted-rides-findings.md` |
-| 5 | Profile | ⬜ | ⬜ | ⬜ | `profile-findings.md` |
-| 6 | Ratings | ⬜ | ⬜ | ⬜ | `ratings-findings.md` |
-| 7 | Permissions | ⬜ | ⬜ | ⬜ | `permissions-findings.md` |
+| 2 | Search Rides | ✅ | ✅ | ✅ | `search-rides-findings.md` |
+| 3 | Booked Rides | ✅ | ✅ | ✅ | `booked-rides-findings.md` |
+| 4 | Posted Rides | ✅ | ✅ | ✅ | `posted-rides-findings.md` |
+| 5 | Profile | ✅ | ✅ | ✅ | `profile-findings.md` |
+| 6 | Ratings | ✅ | ✅ | ✅ | `ratings-findings.md` |
+| 7 | Permissions | ✅ | ✅ | ✅ | `permissions-findings.md` |
 
 ## How to Resume
 
